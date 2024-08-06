@@ -17,5 +17,8 @@ The “Twitter Sentiment Analysis” dataset is a collection of approximately 74
 * The highest neutral reactions in the Amazon entity.
 * The highest positive reactions in the AssassinsCreed entity.
 * There is a peak in the frequency of short texts. Many tweets are relatively brief in terms of character count.
+* Another noteworthy observation is that the majority of messages analyzed are under 400 words in length. This indicates that Twitter users tend to convey their sentiments concisely and succinctly within the platform's character limit.
 * Longer Texts Exist: While short texts are prevalent, there is still a range of longer texts present in the dataset, as evidenced by the right tail of the distribution of Tweets.
 * Positive and Negative sentiments peaks seen in the short text while neutral sentiment seen in little longer texts and irrelevent went short to little texts.
+  
+    In conclusion, the sentiment analysis provides valuable insights into the prevailing attitudes and opinions within the Twitter community regarding various topics. While negative sentiments appear to be more common overall, there is a diverse range of sentiments expressed across different topics.
